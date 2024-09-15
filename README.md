@@ -1,6 +1,6 @@
 <h1>Phạm Hồng Đăng</h1>
 ## 🌐 Socials:
-<div>
+
   <a href="https://linkedin.com/in/hongdangcs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hongdangcseiu/HTMLCSSproject/master/images/linkedin-icon.svg" alt="" height="30" /></a>
 	<a href="https://twitter.com/hongdangcs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hongdangcseiu/HTMLCSSproject/master/images/twitter-6.svg" alt="" height="30" /></a>
 	<a href="https://instagram.com/hongdangcs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hongdangcseiu/HTMLCSSproject/master/images/instagram-5.svg" alt="" height="30" /></a>
